@@ -1,0 +1,6 @@
+{
+  "name": "Ada Sesuatu Buat Kamu",
+  "description": "Kuis rahasia interaktif bertema pastel kawaii untuk menyatakan perasaan dengan tombol menghindar lucu, konfeti, dan balasan WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
